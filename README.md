@@ -14,9 +14,7 @@
 
 # ShinyProxy
 
-Middleware to Deploy Shiny Applications in an Enterprise Context
-
-Learn more at https://shinyproxy.io
+Customized ShinyProxy to integrate with ShinyServer. Thus adding authentication feature to free ShinyServer.
 
 #### (c) Copyright Open Analytics NV, 2016-2018 - Apache License 2.0
 
